@@ -1,0 +1,6 @@
+.header-site {
+  display: flex;
+  background-color: #fff;
+  border-bottom: 2px solic #c1c1c1;
+  padding: 2rem 1rem;
+}
